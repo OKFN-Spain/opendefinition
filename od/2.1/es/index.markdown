@@ -201,4 +201,4 @@ software que nosotros continuamos alentando*.
 Traducido por [Antonio F. Rodríguez](mailto:afrodriguez@fomento.es)
 y
 [Lorena Hernández Quirós](mailto:lhquiros@yahoo.es?subject=Definición%20de%20Conocimiento%20Abierto%202.1),
-revisado por [Adolfo Antón Bravo](mailto:adolflow@gmail.com?subject=Definición%20de%20Conocimiento%20Abierto%202.1]
+revisado por [Adolfo Antón Bravo](mailto:adolflow@gmail.com?subject=Definición%20de%20Conocimiento%20Abierto%202.1)
